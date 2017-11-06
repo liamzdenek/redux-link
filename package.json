@@ -1,5 +1,6 @@
 {
   "name": "redux-link",
+  "version": "0.0.1",
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
     "babel-plugin-transform-function-bind": "^6.22.0",
